@@ -1,0 +1,36 @@
+Android
+android-studio
+AndroidStudioProjects
+a.out
+clab
+clab1
+Desktop
+Documents
+Downloads
+examples.desktop
+hello.c
+hello.c~
+hello.txt
+home.html
+home.html~
+k
+labeeba
+labeeba2
+megha
+meghacp
+Music
+new1
+pas
+pascal
+Pictures
+Public
+R
+rarray.c
+rarray.c~
+suraj
+Templates
+Untitled Document 1
+Untitled Document 1~
+val.html
+val.html~
+Videos
